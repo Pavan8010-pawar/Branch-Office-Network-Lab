@@ -31,7 +31,7 @@ Design a small Cisco-based branch network using one router and one switch, with 
 
 ## Documentation
 - The complete step-by-step configuration and observations are available in the PDF below:
-  [Static-Routing Documentation.pdf](https://github.com/user-attachments/files/22706787/Static-Routing.Documentation.pdf)
+  [Branch Office Network Lab Documentation.pdf](https://github.com/user-attachments/files/24405317/Branch.Office.Network.Lab.Documentation.pdf)
  
 ## Topology Image
 <img width="1919" height="876" alt="Image" src="https://github.com/user-attachments/assets/b715110b-c133-4d6e-997e-477cf7cf93e7" />
