@@ -34,4 +34,4 @@ Design a small Cisco-based branch network using one router and one switch, with 
   [Branch Office Network Lab Documentation.pdf](https://github.com/user-attachments/files/24405317/Branch.Office.Network.Lab.Documentation.pdf)
  
 ## Topology Image
-<img width="1919" height="876" alt="Image" src="https://github.com/user-attachments/assets/b715110b-c133-4d6e-997e-477cf7cf93e7" />
+<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/786ed845-a897-45d1-8749-63aa5ba62d23" />
